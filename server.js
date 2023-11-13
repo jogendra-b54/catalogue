@@ -167,7 +167,7 @@ function mongoConnect() {
 });
 });
 }
-}
+
 
 
 // mongodb connection retry loop
